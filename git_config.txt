@@ -13,6 +13,6 @@ git status   //show status how many files are added
 
 git commit -m "first commit"   //commiting files to github
 
-git remote add origin https://github.com/vinaypatel8092/code-unnati-Ckpcet-vinay.git
+git remote add origin https://github.com/vinaypatel8092/code-unnati-Ckpcet-vinay.git  //Only for first time
 
 git push origin master
