@@ -20,3 +20,8 @@ git push origin master
 git commit -m "Git Configuration" -a    //To update file -> after this as below
 git push origin master
 
+test syllabes
+python fundamental
+git github
+matplotlib
+numpy
