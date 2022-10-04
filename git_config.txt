@@ -1,0 +1,18 @@
+> All thing in folder that you have stored your codes
+git config --global user.name vinaypatel8092     //user cofiguration
+
+git config --global user.email vinaypatel7198@gmail.com    //user email cofiguration
+
+git init
+
+git status    //show status how many files are added 
+
+git add text1.txt  //adding file
+
+git status   //show status how many files are added 
+
+git commit -m "first commit"   //commiting files to github
+
+git remote add origin https://github.com/vinaypatel8092/code-unnati-Ckpcet-vinay.git
+
+git push origin master
