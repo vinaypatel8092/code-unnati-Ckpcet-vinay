@@ -16,3 +16,7 @@ git commit -m "first commit"   //commiting files to github
 git remote add origin https://github.com/vinaypatel8092/code-unnati-Ckpcet-vinay.git  //Only for first time
 
 git push origin master
+
+git commit -m "Git Configuration" -a    //To update file -> after this as below
+git push origin master
+
